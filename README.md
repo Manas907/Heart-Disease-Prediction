@@ -9,10 +9,10 @@ Train an SVM classifier for prediction
 Evaluate the model's performance
 Provide a user-friendly GUI for inputting data and displaying predictions
 Requirements
-Python 3.x
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
+Python 3.x,
+pandas,
+numpy,
+matplotlib,
+seaborn,
+scikit-learn,
 tkinter 
